@@ -1,11 +1,9 @@
 {
-	"conf": [{
-		"OSname": "Windows 10",
-		"PCname": "DESKTOP-D66853K",
-		"IP": "192.168.0.5",
-		"MACaddress": "3C-7C-3F-22-F8",
-		"CPU": "AMD Ryzen 5 2600",
-		"RAM": "Corsair",
-		"HDD": "Hitachi"
-	}]
+	"OSname": "Windows 10",
+	"PCname": "DESKTOP-D66853K",
+	"IP": "192.168.0.5",
+	"MACaddress": "3C-7C-3F-22-F8",
+	"CPU": "AMD Ryzen 5 2600",
+	"RAM": "Corsair",
+	"HDD": "Hitachi"
 }
